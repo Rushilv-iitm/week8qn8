@@ -14,6 +14,7 @@ This script:
 
 import pandas as pd
 import matplotlib.pyplot as plt
+# Updated for PR validation
 
 # -------------------------------
 # 1. Load the quarterly data
